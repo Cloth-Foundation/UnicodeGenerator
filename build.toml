@@ -1,0 +1,10 @@
+[project]
+name = "Cloth"
+version = "0.0.1"
+entryPoint = "Generator.Main.main"
+
+[modules]
+Generator = "Generator"
+
+[output]
+directory = "build"
